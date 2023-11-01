@@ -5,6 +5,7 @@
         public Testing()
         {
             Console.WriteLine("Hello Group 5!");
+            Console.WriteLine("Apples can be red. :)")
         }
 
     }
