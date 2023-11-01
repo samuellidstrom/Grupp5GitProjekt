@@ -2,9 +2,10 @@
 {
     public class Testing
     {
-        public Testing() {
+        public Testing()
+        {
             Console.WriteLine("Hello Group 5!");
         }
-        
+
     }
 }
