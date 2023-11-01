@@ -5,7 +5,7 @@ html {
 @media (min-width: 768px) {
     html {
         font-size: 16px;
-        color: aquamarine;
+        color: green;
     }
 }
 
@@ -14,8 +14,8 @@ html {
 }
 
 html {
-    position: relative;
-    min-height: 100%;
+    position: fixed;
+    min-height: 50%;
 }
 
 body {
