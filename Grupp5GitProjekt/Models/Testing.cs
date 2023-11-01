@@ -5,7 +5,9 @@
         public Testing()
         {
             Console.WriteLine("Hello Group 5!");
-            Console.WriteLine("Apples can be red. :)")
+            Console.WriteLine("Appels can be red. :)");
+            Console.WriteLine("What is your favourite fruit?");
+            Console.ReadLine();
         }
 
     }
