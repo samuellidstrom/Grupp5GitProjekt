@@ -4,7 +4,7 @@
     {
         public Testing()
         {
-            Console.WriteLine("Hello Group 5! from Hasan");
+            Console.WriteLine("Hello Group 5!");
         }
 
     }
