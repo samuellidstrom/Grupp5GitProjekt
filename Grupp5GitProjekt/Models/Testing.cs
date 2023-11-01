@@ -5,12 +5,14 @@
         public Testing()
         {
             Console.WriteLine("Hello Group 5!");
-            Console.WriteLine("Apples can be red. :)");
-            int number = 100;
-            for (int i = 0; i < number ; i++)
-            {
-                Console.WriteLine($"I'm at {i}. I'll be at {number} soon.");
-            }
+            Console.WriteLine("Hasan makes changes to line 8");
+            Console.WriteLine("Hasan makes changes to line 9");
+            Console.WriteLine("Hasan makes changes to line 10");
+            Console.WriteLine("Hasan makes changes to line 10");
+            Console.WriteLine("Hasan makes changes to line 10");
+            Console.WriteLine("Hasan makes changes to line 10");
+
+
         }
 
     }
